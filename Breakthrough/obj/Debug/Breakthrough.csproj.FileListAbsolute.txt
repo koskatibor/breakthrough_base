@@ -1,0 +1,14 @@
+D:\Breakthrough\Breakthrough\Breakthrough\bin\Debug\Breakthrough.exe.config
+D:\Breakthrough\Breakthrough\Breakthrough\bin\Debug\Breakthrough.exe
+D:\Breakthrough\Breakthrough\Breakthrough\bin\Debug\Breakthrough.pdb
+D:\Breakthrough\Breakthrough\Breakthrough\obj\Debug\Breakthrough.csprojAssemblyReference.cache
+D:\Breakthrough\Breakthrough\Breakthrough\obj\Debug\Breakthrough.csproj.CoreCompileInputs.cache
+D:\Breakthrough\Breakthrough\Breakthrough\obj\Debug\Breakthrough.exe
+D:\Breakthrough\Breakthrough\Breakthrough\obj\Debug\Breakthrough.pdb
+C:\Users\Koska Tibor\Documents\UNI_AI\Breakthrough\Breakthrough\Breakthrough\bin\Debug\Breakthrough.exe.config
+C:\Users\Koska Tibor\Documents\UNI_AI\Breakthrough\Breakthrough\Breakthrough\bin\Debug\Breakthrough.exe
+C:\Users\Koska Tibor\Documents\UNI_AI\Breakthrough\Breakthrough\Breakthrough\bin\Debug\Breakthrough.pdb
+C:\Users\Koska Tibor\Documents\UNI_AI\Breakthrough\Breakthrough\Breakthrough\obj\Debug\Breakthrough.csprojAssemblyReference.cache
+C:\Users\Koska Tibor\Documents\UNI_AI\Breakthrough\Breakthrough\Breakthrough\obj\Debug\Breakthrough.csproj.CoreCompileInputs.cache
+C:\Users\Koska Tibor\Documents\UNI_AI\Breakthrough\Breakthrough\Breakthrough\obj\Debug\Breakthrough.exe
+C:\Users\Koska Tibor\Documents\UNI_AI\Breakthrough\Breakthrough\Breakthrough\obj\Debug\Breakthrough.pdb
